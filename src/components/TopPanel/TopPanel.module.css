@@ -1,0 +1,12 @@
+.topPanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.logo {
+    display: block;
+    width: 200px;
+    height: auto;
+}
